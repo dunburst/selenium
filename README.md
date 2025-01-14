@@ -87,3 +87,6 @@ Logs được in ra console để hỗ trợ debug thực tế.
 
 Dự án này được cấp phép theo giấy phép MIT.
 
+## Link ChatGPT
+
+https://chatgpt.com/share/678633a9-293c-800f-af9f-0a6565e78145
